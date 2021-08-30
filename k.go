@@ -7,7 +7,7 @@ package dm
 
 import (
 	"bytes"
-	"dm/util"
+	"github.com/sytgj7896321/dm/util"
 	"time"
 )
 

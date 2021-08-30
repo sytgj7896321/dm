@@ -5,8 +5,8 @@
 package dm
 
 import (
-	"dm/util"
 	"fmt"
+	"github.com/sytgj7896321/dm/util"
 	"math"
 	"os"
 	"sort"

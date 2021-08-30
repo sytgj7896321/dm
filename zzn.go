@@ -5,7 +5,7 @@
 package dm
 
 import (
-	"dm/util"
+	"github.com/sytgj7896321/dm/util"
 	"strconv"
 )
 

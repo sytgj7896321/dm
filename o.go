@@ -9,8 +9,8 @@ import (
 	"context"
 	"database/sql"
 	"database/sql/driver"
-	"dm/parser"
 	"fmt"
+	"github.com/sytgj7896321/dm/parser"
 	"golang.org/x/text/encoding"
 	"sync/atomic"
 )

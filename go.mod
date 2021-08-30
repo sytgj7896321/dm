@@ -1,4 +1,4 @@
-module dm
+module github.com/sytgj7896321/dm
 
 go 1.17
 

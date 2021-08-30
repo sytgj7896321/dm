@@ -7,7 +7,7 @@ package dm
 
 import (
 	"bufio"
-	"dm/util"
+	"github.com/sytgj7896321/dm/util"
 	"io"
 	"os"
 	"runtime"
